@@ -1,0 +1,459 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cu",
+				"currentPagerIndicator"
+			],
+			[
+				"custo",
+				"customPagerUl"
+			],
+			[
+				"border-",
+				"border-spacing"
+			],
+			[
+				"re",
+				"req	require \"..\""
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"dup",
+				"Duplicate Selections"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/single.php",
+		"/C/Users/ahmed/Desktop/SmartGit.Enterprise.v2.0.3.Incl.Keygen-iNViSiBLE/smartgit-win32-setup-jre-2_0_3/license.html",
+		"/D/wamp/www/tests/bxslider/js/jquery.bxslider.js",
+		"/D/wamp/www/tests/bxslider/css/config.rb",
+		"/D/wamp/www/git/sass-bootstrap2/example-nile/keynavigator/css/sass/_name.scss",
+		"/D/wamp/www/git/sass-bootstrap2/example-nile/keynavigator/js/scripts.js",
+		"/D/wamp/www/git/sass-bootstrap2/lib/_grid.scss",
+		"/D/wamp/www/git/sass-bootstrap2/lib/_variables.scss",
+		"/D/wamp/www/git/sass-bootstrap2/example-nile/keynavigator/index.html",
+		"/D/wamp/www/git/sass-bootstrap2/example-nile/css/config.rb",
+		"/D/wamp/www/git/sass-bootstrap2/example-nile/keynavigator/css/sass/screen.scss",
+		"/D/wamp/www/git/sass-bootstrap2/example-nile/keynavigator/css/sass/_color_functions.scss",
+		"/D/wamp/www/git/sass-bootstrap2/example-nile/css/sass/bootstraped.scss",
+		"/D/wamp/www/git/sass-bootstrap2/example-nile/keynavigator/css/stylesheets/screen.css",
+		"/D/wamp/www/git/sass-bootstrap2/example-nile/css/stylesheets/bootstraped.css",
+		"/D/wamp/www/git/sass-bootstrap2/lib/_mixins.scss",
+		"/D/wamp/www/git/sass-bootstrap2/example-nile/keynavigator/css/sass/_scheme.scss",
+		"/D/wamp/www/git/sass-bootstrap2/example-nile/keynavigator/css/config.rb",
+		"/D/wamp/www/git/sass-bootstrap2/lib/_buttons.scss",
+		"/D/wamp/www/git/sass-bootstrap2/example-nile/experiments/experiments.html",
+		"/D/wamp/www/git/sass-bootstrap2/example-nile/css/custom_ruby_functions.rb",
+		"/D/wamp/www/tests/dojo/config.rb",
+		"/D/wamp/www/git/sass-bootstrap2/dist/css/bootstrap.css",
+		"/D/wamp/www/git/sass-bootstrap2/lib/_navbar.scss",
+		"/C/Users/ahmed/AppData/Local/Temp/Rar$DIa0.845/jquery.dotdotdot.js",
+		"/D/wamp/www/git/sass-bootstrap2/lib/bootstrap.scss",
+		"/D/wamp/www/git/sass-bootstrap2/example-nile/css/sass/bootstrap.scss",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/css/dotcairo-sass/sass/_/_overwrites.scss",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/header.php",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/css/dotcairo-sass/sass/_/_gwf_ar.scss",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/css/dotcairo-sass/sass/_/_gwf.scss",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/js/filter.js",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/archive.php",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/initiatives.php",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/single-gov-entity.php",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/gov.php",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/articles.php",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/css/dotcairo-sass/sass/screen_ar.scss",
+		"/D/wamp/www/Projects/Tadamun/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.js",
+		"/D/wamp/www/Projects/Tadamun/wp-content/plugins/google-analytics-dashboard-for-wp/functions.php",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/style.css",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/footer.php",
+		"/D/wamp/www/Projects/Tadamun/wp-admin/credits.php",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/js/scripts.js",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/screen_ar.css",
+		"/C/Users/ahmed/Desktop/nile.js",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/screen.css",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/css/dotcairo-sass/sass/screen.scss",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/css/dotcairo-sass/config.rb",
+		"/D/wamp/www/Projects/Tadamun/wp-content/plugins/jetpack/_inc/genericons.css",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/nile.sublime-project",
+		"/D/wamp/www/Projects/Tadamun/wp-content/plugins/contact-form-7/includes/classes.php",
+		"/D/wamp/www/Projects/Tadamun/wp-content/plugins/contact-form-7/includes/functions.php",
+		"/D/wamp/www/Projects/Tadamun/wp-admin/load-scripts.php",
+		"/C/Users/ahmed/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ahmed/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/wamp/www/Projects/Tadamun/wp-includes/theme-compat/footer.php",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/dev-sameh_ar.css",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/dev-sameh.css",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/dev-amgad_ar.css",
+		"/D/wamp/www/Projects/Tadamun/wp-content/themes/tadamun/dev-amgad.css",
+		"/C/Users/ahmed/Desktop/nile/example.js",
+		"/D/wamp/www/Projects/Tadamun/wp-includes/plugin.php",
+		"/D/wamp/www/Projects/Tadamun/wp-content/plugins/contact-form-7/wp-contact-form-7.php",
+		"/D/wamp/www/Projects/Tadamun/.htaccess",
+		"/D/wamp/www/Projects/Tadamun/wp-includes/theme-compat/header.php",
+		"/D/wamp/www/Projects/Tadamun/wp-admin/includes/screen.php",
+		"/C/Users/ahmed/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/D/wamp/www/Projects/Tadamun/wp-config.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"D:\\wamp\\www\\Projects\\Tadamun\\wp-content\\themes\\tadamun",
+			"D:\\wamp\\www\\git\\sass-bootstrap2\\lib",
+			"D:\\wamp\\www\\Projects\\Tadamun\\, -styles.css",
+			"D:\\wamp\\www\\Projects\\Tadamun\\",
+			"D:\\wamp\\www\\Projects\\Tadamun\\, -styles.css",
+			"D:\\wamp\\www\\Projects\\Tadamun\\wp-content\\themes\\tadamun, -styles.css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"updatePagerActive",
+			"pagerCustom",
+			"currentPagerIndicator",
+			"/slider_images/",
+			"returnValue",
+			"</li>",
+			"col-md-",
+			"grid",
+			"$screen-lg",
+			"grid-gu",
+			"<div",
+			"tabIndex=\"0\"",
+			"$color",
+			"col-md",
+			"padding-right",
+			"current_page_parent",
+			".current_page_parent",
+			".current_page_parent ul.sub-menu",
+			", ",
+			"make-grid-columns",
+			"a",
+			"divider",
+			"div",
+			"@import \"",
+			"gravatar",
+			"var _gaq = _gaq || [];",
+			"ga_dash.php",
+			"ga_dash_classic_tracking",
+			"var _gaq = _gaq || [];",
+			"_trackPageview",
+			"'_trackPageview",
+			"#iefix",
+			"http",
+			"(?<=url\\()(.+?(?=\\)))",
+			"http//themes.googleusercontent.com/static/",
+			"//themes",
+			"url(",
+			"http://fonts.googleapis.com/cs",
+			"@font-face",
+			"@font",
+			"google",
+			"filter",
+			"filter.js",
+			"filtrify",
+			"gr",
+			"wpcf7-response-output",
+			"thank you",
+			"mail_sent_ok",
+			"wpcf7_display_message",
+			"$this->messages",
+			"thank you",
+			"messages",
+			"message",
+			"form-item",
+			"wpcf7",
+			"footer_menu",
+			"footer",
+			"f-arrow",
+			"tab",
+			"_ng",
+			"messages",
+			"function do_action_ref_array",
+			"do_action_ref_array",
+			"mail_sent_ng",
+			"wpcf7_messages",
+			"Failed to send your message",
+			"Failed",
+			"Failed ",
+			"email",
+			"screen",
+			"<?",
+			"it"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "bxslider-customPagerProject.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bx",
+				"js\\jquery.bxslider.js"
+			],
+			[
+				"scri",
+				"js\\scripts.js"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"miix",
+				"lib\\_mixins.scss"
+			],
+			[
+				"_grid",
+				"lib\\_grid.scss"
+			],
+			[
+				"bootstraped",
+				"example-nile\\css\\stylesheets\\bootstraped.css"
+			],
+			[
+				"screen",
+				"example-nile\\keynavigator\\css\\stylesheets\\screen.css"
+			],
+			[
+				"boot",
+				"dist\\css\\bootstrap.css"
+			],
+			[
+				"bootstra",
+				"dist\\css\\bootstrap.css"
+			],
+			[
+				"buttons",
+				"lib\\_buttons.scss"
+			],
+			[
+				"navbar.scs",
+				"lib\\_navbar.scss"
+			],
+			[
+				"exp",
+				"example-nile\\experiments\\experiments.html"
+			],
+			[
+				"bootstrap.s",
+				"lib\\bootstrap.scss"
+			],
+			[
+				"mixin",
+				"lib\\_mixins.scss"
+			],
+			[
+				"header",
+				"wp-content\\themes\\tadamun\\header.php"
+			],
+			[
+				"js/scrip",
+				"wp-content\\themes\\tadamun\\js\\scripts.js"
+			],
+			[
+				"footer",
+				"wp-content\\themes\\tadamun\\footer.php"
+			],
+			[
+				"gwf",
+				"wp-content\\themes\\tadamun\\css\\dotcairo-sass\\sass\\_\\_gwf_ar.scss"
+			],
+			[
+				"ov",
+				"wp-content\\themes\\tadamun\\css\\dotcairo-sass\\sass\\_\\_overwrites.scss"
+			],
+			[
+				"he",
+				"wp-content\\themes\\tadamun\\header.php"
+			],
+			[
+				"style",
+				"wp-content\\themes\\tadamun\\style.css"
+			],
+			[
+				"filter",
+				"wp-content\\themes\\tadamun\\js\\filter.js"
+			],
+			[
+				"archi",
+				"wp-content\\themes\\tadamun\\archive.php"
+			],
+			[
+				"classes",
+				"wp-content\\plugins\\contact-form-7\\includes\\classes.php"
+			],
+			[
+				"over",
+				"wp-content\\themes\\tadamun\\css\\dotcairo-sass\\sass\\_\\_overwrites.scss"
+			],
+			[
+				"foot",
+				"wp-includes\\theme-compat\\footer.php"
+			],
+			[
+				"contact",
+				"wp-content\\plugins\\contact-form-7\\wp-contact-form-7.php"
+			],
+			[
+				"sameh",
+				"wp-content\\themes\\tadamun\\dev-sameh_ar.css"
+			],
+			[
+				"amgad",
+				"wp-content\\themes\\tadamun\\dev-amgad_ar.css"
+			],
+			[
+				"dev",
+				"wp-content\\themes\\tadamun\\dev-amgad.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
