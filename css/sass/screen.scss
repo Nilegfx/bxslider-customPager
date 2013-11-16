@@ -1,0 +1,37 @@
+@import "compass";
+@import "compass/reset";
+
+.testbx{
+  font:{
+    family:arial;
+    size:13px;
+  }
+}
+
+.bxslider-container{
+    width:600px;
+    margin:10px auto;
+  ul.bxslider{
+  }
+}
+
+$temp_pager_container_color:#f1f1f1;
+.nile{
+  margin:20px 0;
+  background-color: darken($temp_pager_container_color,5);
+  min-height:20px;
+  padding:20px;
+}
+
+.bx-custom-pager{ //UL
+  margin: 20px 0;
+  li{
+    display:inline-block;
+    margin: 0 0 0 10px;
+    padding: 0 0 0 10px;
+    border-left:1px solid $temp_pager_container_color;
+    cursor:pointer;
+    &:hover,&:active,&.active{color:red;}
+    &:first-child{border-left:0;margin-left:0;padding-left:0;}
+  }
+}

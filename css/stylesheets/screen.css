@@ -1,0 +1,91 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+html {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+q, blockquote {
+  quotes: none;
+}
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+a img {
+  border: none;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+.testbx {
+  font-family: arial;
+  font-size: 13px;
+}
+
+.bxslider-container {
+  width: 600px;
+  margin: 10px auto;
+}
+
+.nile {
+  margin: 20px 0;
+  background-color: #e4e4e4;
+  min-height: 20px;
+  padding: 20px;
+}
+
+.bx-custom-pager {
+  margin: 20px 0;
+}
+.bx-custom-pager li {
+  display: inline-block;
+  margin: 0 0 0 10px;
+  padding: 0 0 0 10px;
+  border-left: 1px solid #f1f1f1;
+  cursor: pointer;
+}
+.bx-custom-pager li:hover, .bx-custom-pager li:active, .bx-custom-pager li.active {
+  color: red;
+}
+.bx-custom-pager li:first-child {
+  border-left: 0;
+  margin-left: 0;
+  padding-left: 0;
+}
